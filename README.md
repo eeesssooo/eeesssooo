@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   </br>
   
   📫 How to reach me **eee.soojeong@gmail.com**
-  
-  📝 I regularly write articles on [https://velog.io/@e_soojeong](https://velog.io/@e_soojeong)
-</div>
 
  </br> </br> </br>
 <h3 align="center">Languages and Tools:</h3>
